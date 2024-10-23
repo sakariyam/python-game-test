@@ -1,5 +1,5 @@
-def minFunction():
+def betterFunctionName():
     print("hej mariam")
     return
 
-minFunction()
+betterFunctionName()
